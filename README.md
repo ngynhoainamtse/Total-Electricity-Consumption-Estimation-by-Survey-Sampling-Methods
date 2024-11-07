@@ -3,8 +3,8 @@
 ## Description
 In this project, we want to estimate the total electricity consumption by statistical methods in the survey sampling framework and study the basic stratification method called ”Cumulative root frequency”. This foundation method uses one numerical variable to self-construct the strata by finding its optimal segments or boundaries that satisfy the minimization criteria.
 
-Three sampling designs: Simple random sampling without replacement (SRSWOR), Bernoulli sampling (BE), and Stratified simple ransom sampling without replacement (STSRSWOR). 
-Four estimators: Horvitz-Thompson estimator, Post-Stratified estimator, Ratio estimator, and Regression estimator.
+** Three sampling designs: Simple random sampling without replacement (SRSWOR), Bernoulli sampling (BE), and Stratified simple ransom sampling without replacement (STSRSWOR). 
+** Four estimators: Horvitz-Thompson estimator, Post-Stratified estimator, Ratio estimator, and Regression estimator.
 
 ## Data
 
