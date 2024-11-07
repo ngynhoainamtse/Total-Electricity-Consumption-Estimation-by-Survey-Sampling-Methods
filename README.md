@@ -9,7 +9,7 @@ In this project, we want to estimate the total electricity consumption by statis
 
 ## Data
 
-The data can be found on this Kaggle [link]([https://opendata.agenceore.fr/explore/dataset/conso-elec-gaz-annuelle-par-naf-agregee-commune/information/?refine.annee=2021]).
+The data can be found on this [link](https://opendata.agenceore.fr/explore/dataset/conso-elec-gaz-annuelle-par-naf-agregee-commune/information/?refine.annee=2021).
 
 ## Using the code
 
